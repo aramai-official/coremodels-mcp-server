@@ -1,0 +1,17 @@
+{
+  "name": "io.github.aramai-official/coremodels-mcp-server",
+  "version": "1.0.0",
+  "title": "CoreModels MCP Server",
+  "description": "Manage graph-based data models, schemas, and ontologies with CoreModels",
+  "websiteUrl": "https://coremodels.io",
+  "remotes": [
+    {
+      "transportType": "streamable-http",
+      "url": "https://go.coremodels.io/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/aramai-official/coremodels-mcp-server",
+    "source": "github"
+  }
+}
